@@ -1,45 +1,55 @@
 ---
-title: "Sigríður Björndotter"
-image: "sigridur.jpg"
+title: "J.Manuel Magana A"
+image: "jmmagana.jpg"
 links:
   - label: Resume
-    url: "https://linkedin.com/"
-  - label: Blog
-    url: "https://medium.com/"
-  - label: SoundCloud
-    url: "https://soundcloud.com/"
+    url: "https://www.linkedin.com/in/jmmagana/"
+  #- label: Blog
+  #  url: "https://medium.com/"
+  #- label: SoundCloud
+  #  url: "https://soundcloud.com/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/jmmagana"
 output:
   postcards::solana
 ---
  
 ## Bio
 
-Sigríður Björndotter is a musician, vocalist, and live entertainment consultant
-living in Buenos Aires, Argentina. Her writing has appeared in Rolling Stone,
-Billboard, and NME, and she is a frequent contributor to National Public Radio's 
-*All Songs Considered*. She has been raising Pembroke Welsh Corgis since the age
-of six, and she has collected Casio watches since the age of ten.
+Data Scientist with proven experience at the intersection of statistics, machine learning, econometrics, financial reporting and data visualization. A naturally curious, persistent, well-organized and self-motivated person who loves to learn and lead others to solve challenging problems with pragmatic solutions using leading edge technology. Enjoys working with international and multicultural teams.
+
+Areas of Expertise:
+
+• Statistics and machine learning (R, Python)
+• Econometrics (R, Python)
+• Data Visualisation (QlikView, Tableau, R Shiny)
+• Data handling and databases (SQL, MicroStrategy)
+• Data Science project management (Azure DevOps, GitHub)
 
 ## Education
 
-**INSEAD** | Fontainebleau, France
+**Birkbeck, University of London** | London, UK
 
-M.B.A. | August 2014 - June 2015
+MSc in Data Science | 2018 - 2020
 
-**The Juilliard School** | New York, NY
+**Monterrey Institute of Technology** | Queretaro, Mexico
 
-B.F.A. in Music Performance | August 2005 - May 2009
+MSc in Finance | 2010 - 2012
+
+**Monterrey Institute of Technology** | Queretaro, Mexico
+
+BSc Mechatronics Engineering | 2005 - 2010 
 
 ## Experience
 
-**Freelance** | Live Entertainment Consultant | August 2018 - Present
+**PwC Spain** | Data Scientist, Manager | 2021 - Present
 
-**Cercle** | Producer | August 2018 - Present
+**PwC UK** | Data Scientist, Manager | 2017 - 2020
 
-**National Public Radio** | Producer | May 2015 - July 2018
+**PwC UK** | Data Analytics, Senior Associate | 2013 - 2017
 
-**NME Magazine** | Editor | July 2014 - July 2016
+**Monterrey Institute of Technology** | Lecturer (Part time) | 2013 - 2016
 
-**Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
+**PwC UK** | Business Analyst | 2011 - 2013
+
+**Mars Inc** | Financial Analyst | 2010 - 2011
