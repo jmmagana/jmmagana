@@ -6,8 +6,8 @@ links:
     url: "https://www.linkedin.com/in/jmmagana/"
   #- label: Blog
   #  url: "https://medium.com/"
-  #- label: SoundCloud
-  #  url: "https://soundcloud.com/"
+  - label: GitHub
+    url: "https://github.com/jmmagana"
   - label: Twitter
     url: "https://twitter.com/jmmagana"
 output:
@@ -20,40 +20,38 @@ Data Scientist with proven experience at the intersection of statistics, machine
 
 Areas of Expertise:
 
-• Statistics and machine learning (R, Python)
-• Econometrics (R, Python)
-• Data Visualisation (QlikView, Tableau, R Shiny)
-• Data handling and databases (SQL, MicroStrategy)
-• Data Science project management (Azure DevOps, GitHub)
+* Statistics and machine learning (R, Python)
+* Econometrics (R, Python)
+* Data Visualisation (QlikView, Tableau, R Shiny)
+* Data handling and databases (SQL, MicroStrategy)
+* Data Science project management (Azure DevOps, GitHub)
 
 ## Education
 
-**Birkbeck, University of London** | London, UK
+**Birkbeck, University of London** | MSc in Data Science | UK | 2018 - 2020
+  
+  + MSc Project and Dissertation
+    
+    [A Data Science application to aid model selection for time series forecasting](https://drive.google.com/file/d/1JI7OzmSK27YzyHs-5a4dfbr34M_Gw2O3/view?usp=sharing)
 
-MSc in Data Science | 2018 - 2020
+**Tecnologico de Moterrey** | MSc in Finance | Mexico | 2010 - 2012
 
-**Monterrey Institute of Technology** | Queretaro, Mexico
-
-MSc in Finance | 2010 - 2012
-
-**Monterrey Institute of Technology** | Queretaro, Mexico
-
-BSc Mechatronics Engineering | 2005 - 2010
+**Tecnologico de Moterrey** | BSc Mechatronics Engineering | Mexico | 2005 - 2010
 
 ## Publications
 
-[Value Relevance of Accounting Fundamentals in the Mexican Stock Exchange](https://www.academia.edu/14449992/VALUE_RELEVANCE_OF_ACCOUNTING_FUNDAMENTALS_IN_THE_MEXICAN_STOCK_EXCHANGE) | 2012 | American Council of Management Schools (CLADEA).
+[Value Relevance of Accounting Fundamentals in the Mexican Stock Exchange](https://www.academia.edu/14449992/VALUE_RELEVANCE_OF_ACCOUNTING_FUNDAMENTALS_IN_THE_MEXICAN_STOCK_EXCHANGE) | American Council of Management Schools (CLADEA) | 2012
 
 ## Experience
 
-**PwC Spain** | Data Scientist, Manager | 2021 - Present
+**PwC** | Data Scientist, Manager | Spain | 2021 - Present
+  
+**PwC** | Data Scientist, Manager | UK | 2017 - 2020
 
-**PwC UK** | Data Scientist, Manager | 2017 - 2020
+**PwC** | Data Analytics, Senior Associate | UK | 2013 - 2017
 
-**PwC UK** | Data Analytics, Senior Associate | 2013 - 2017
+**Tecnologico de Moterrey** | Lecturer (Part time) | Mexico | 2013 - 2016
 
-**Monterrey Institute of Technology** | Lecturer (Part time) | 2013 - 2016
+**PwC** | Business Analyst | UK | 2011 - 2013
 
-**PwC UK** | Business Analyst | 2011 - 2013
-
-**Mars Inc** | Financial Analyst | 2010 - 2011
+**Mars Inc** | Financial Analyst | Mexico | 2010 - 2011
