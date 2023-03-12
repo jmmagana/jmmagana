@@ -8,8 +8,8 @@ links:
   #  url: "https://medium.com/"
   - label: GitHub
     url: "https://github.com/jmmagana"
-  - label: Twitter
-    url: "https://twitter.com/jmmagana"
+  #- label: Twitter
+  #  url: "https://twitter.com/jmmagana"
 output:
   postcards::solana
 ---
